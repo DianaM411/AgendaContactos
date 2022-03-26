@@ -16,6 +16,7 @@ añadido. No se pueden meter contactos que existan, es decir, no podemos duplica
 podido eliminar.
 
 • boolean existeContacto(String nombre): Indica si el contacto indicado existe.
+
 • void listarContactos(): Muestra por pantalla toda la agenda.
 
 • int buscaContacto(String nombre): busca un contacto por su nombre y devuelve su posición
